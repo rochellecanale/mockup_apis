@@ -1,0 +1,27 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "title": "Insert Title Here 1",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+      "assets": "/banners/optimized-1.mp4",
+      "cta_link": "https://google.com",
+      "is_active": "TRUE"
+    },
+    {
+      "id": 2,
+      "title": "Insert Title Here 2",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+      "assets": "/banners/optimized-2.mp4",
+      "cta_link": "https://google.com",
+      "is_active": "TRUE"
+    }
+  ],
+  "products": {
+    "id": 1,
+    "name": "Belo Face Wash",
+    "short_description": "ShortDesc",
+    "description": "This is the description of the product.",
+    "assets": "/images/products/sample.png,/images/products/sample2.png,/images/products/sample3.png,/images/products/sample4.png,/images/products/sample5.png,/images/products/sample6.png"
+  }
+}
