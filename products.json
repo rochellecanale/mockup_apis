@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "name": "Belo Face Wash",
+      "name": "Sun Expert Tinted Sunscreen",
       "short_description": "ShortDesc",
-      "description": "This is the description of the product.",
+      "description": "A holistic acne treatment program that cleans and clears your skin for visible results in as fast as 7 days",
       "assets": "/images/products/sample.png,/images/products/sample2.png,/images/products/sample3.png,/images/products/sample4.png,/images/products/sample5.png,/images/products/sample6.png"
     }
   ]
