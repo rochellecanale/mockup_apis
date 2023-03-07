@@ -1,25 +1,25 @@
 [
     {
       "id": 1,
-      "title": "AcnePro",
+      "title": "Belo - Glutathione with Collagen",
       "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-      "assets": "/banners/Belo - AcnePro 16x9 (Online V2)_1_1.mp4",
+      "assets": "/banners/Belo - Glutathione with Collagen V2 16x9_1.mp4",
       "cta_link": "https://google.com",
       "is_active": "TRUE"
     },
     {
       "id": 2,
-      "title": "Collagen Strawberry",
+      "title": "Belo - Underarm Whitening Cream",
       "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-     "assets": "/banners/Belo - Collagen Strawberry (V2) 16x9_1.mp4",
+     "assets": "/banners/Belo - Underarm Whitening Cream_1_1.mp4",
       "cta_link": "https://google.com",
       "is_active": "TRUE"
     },
 	{
       "id": 3,
-      "title": "Glutathione with Collagen",
+      "title": "Belo Sunexpert - Dewy Essence",
       "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-     "assets": "/banners/Belo - Glutathione with Collagen V2 16x9_1.mp4",
+     "assets": "/banners/Belo Sunexpert - Dewy Essence (16x9)_1_1.mp4",
       "cta_link": "https://google.com",
       "is_active": "TRUE"
     }
